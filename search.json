@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Introduction",
+        "url": "/",
+        "content": "Welcome to the documentation for Your Tool..."
+    },
+    {
+        "title": "Category 1",
+        "url": "/categories/category1/",
+        "content": "This is the content for Category 1..."
+    }
+]

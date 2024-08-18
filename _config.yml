@@ -1,1 +1,18 @@
-theme: jekyll-theme-minimal
+title: Your Site Name
+description: Your site description
+baseurl: ""
+url: "https://yourusername.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Custom settings
+search: true
+
+sass:
+  sass_dir: _sass
+  style: compressed

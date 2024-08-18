@@ -1,0 +1,10 @@
+- title: Introduction
+  url: /
+- title: Get Started
+  url: /get-started/
+- title: Categories
+  children:
+    - title: Category 1
+      url: /categories/category1/
+    - title: Category 2
+      url: /categories/category2/
