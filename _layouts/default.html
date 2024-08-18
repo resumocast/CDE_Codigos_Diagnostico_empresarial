@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+</head>
+<body>
+    {% include header.html %}
+    <div class="wrapper">
+        {% include sidebar.html %}
+        <main class="site-content">
+            {{ content }}
+        </main>
+    </div>
+    {% include footer.html %}
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    {% if site.search %}
+    <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+    {% endif %}
+</body>
+</html>

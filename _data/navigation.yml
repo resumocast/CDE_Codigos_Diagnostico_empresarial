@@ -1,0 +1,10 @@
+- title: Home
+  url: /
+- title: Get Started
+  url: /get-started/
+- title: Documentation
+  children:
+    - title: Category 1
+      url: /categories/category1/
+    - title: Category 2
+      url: /categories/category2/
