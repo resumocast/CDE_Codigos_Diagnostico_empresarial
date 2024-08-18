@@ -1,3 +1,5 @@
+intridução
+
 # Padrões Nocivos Financeiros
 
 ## F5-099 Liquidez Insuficiente (Insolvência Iminente)
