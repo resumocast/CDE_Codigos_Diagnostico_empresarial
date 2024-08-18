@@ -1,4 +1,3 @@
-intridução
 
 # Padrões Nocivos Financeiros
 

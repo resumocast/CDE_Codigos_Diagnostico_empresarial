@@ -1,12 +1,11 @@
-# Bem-vindo ao CDE - Códigos de Diagnóstico Empresarial
 
-O Código de Diagnóstico Empresarial (CDE) é um sistema padronizado para identificar, classificar e avaliar padrões nocivos em empresas. Inspirado no Código Internacional de Doenças (CID), o CDE permite que advisors empresariais diagnostiquem e comuniquem problemas organizacionais de forma eficiente e precisa.
 
 ## Estrutura do Código
 
-******************************************
-Cada código CDE segue o formato: WW-XXX-YZ
-******************************************
+Cada código CDE segue o formato
+
+# WW-XXX-YZ
+
 
 ### Componentes do Código
 
@@ -15,7 +14,6 @@ Cada código CDE segue o formato: WW-XXX-YZ
 3. Y Quantidade de critérios atendidos (1-9) - Determinado pelo advisor
 4. Z Grau de gravidade (1-5) - Determinado pelo advisor
 
-Grau de gravidade (1-5, opinião do advisor)
 
 ### Representação Visual
 
