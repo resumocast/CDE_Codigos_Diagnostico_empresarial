@@ -1,4 +1,11 @@
 
+## Introdução
+
+O Código de Diagnóstico Empresarial (CDE) é um sistema padronizado revolucionário para identificar, classificar e avaliar padrões nocivos em organizações. Inspirado no Código Internacional de Doenças (CID), o CDE aplica princípios médicos validados ao contexto empresarial, priorizando um diagnóstico preciso antes da intervenção.
+
+## O CDE integra duas metodologias consolidadas para definir categorias de padrões nocivos:
+
+1. [Balanced Scorecard (BSC)](https://pt.wikipedia.org/wiki/Balanced_scorecard): Uma das ferramentas de gestão estratégica mais conhecidas e validadas no mercado, o BSC alinha atividades empresariais à visão organizacional. Ele abrange quatro perspectivas principais: financeira, de clientes, de processos internos e de aprendizado e crescimento.
 
 ## Estrutura do Código
 
