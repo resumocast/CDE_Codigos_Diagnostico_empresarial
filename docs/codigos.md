@@ -1,3 +1,56 @@
+==========================================================================
+# CÓDIGOS DE DIAGNÓSTICO EMPRESARIAL
+==========================================================================
+
+### **Termos Cruciais para Entender o CDE**
+
+- **Deficiente:** Algo que apresenta falhas, inadequado em qualidade ou desempenho. Imagine um carro com um motor fraco: ele ainda funciona, mas não tem força suficiente para subir uma colina íngreme.
+
+- **Insuficiente:** Quando a capacidade ou quantidade simplesmente não é suficiente para atender às necessidades ou atingir objetivos. É como tentar encher um balde grande com um copo pequeno de água – não importa o quanto você se esforce, a quantidade nunca será suficiente.
+
+- **Vulnerabilidade:** A exposição a riscos ou fragilidades que podem ser exploradas por fatores externos. Pense em uma casa de palha em uma área sujeita a ventos fortes – ela pode até se manter em pé, mas um vento forte é suficiente para derrubá-la.
+
+
+
+
+- Padrões Nocivos Financeiros
+  - F5-099 Liquidez Insuficiente (Insolvência Iminente)
+  - F5-090 Geração de Receita Insuficiente
+  - F5-085 Gestão de Custos Deficiente
+  - F5-080 Gestão de Riscos Financeiros Deficiente
+  - F5-075 Estrutura de Capital Deficiente
+  - F5-070 Gestão Tributária Deficiente
+  - F5-065 Gestão de Investimentos Deficiente
+- Padrões Nocivos com Clientes
+  - C4-099 Valor Gerado por Produtos/Serviços Insuficiente para Clientes
+  - C4-090 Aquisição de Clientes Insuficiente
+  - C4-085 Retenção de Clientes Insuficiente
+- Padrões Nocivos Operacionais
+  - P3-099 Eficiência Operacional Insuficiente
+  - P3-090 Controle de Qualidade Deficiente
+  - P3-085 Gestão de Cadeia de Suprimentos Deficiente
+  - P3-080 Processos de Tomada de Decisão Deficientes
+  - P3-075 Comunicação Interna Deficiente
+  - P3-070 Gestão de Parcerias e Alianças Estratégicas Deficiente
+  - P3-060 Gestão de Dados e Segurança da Informação Deficiente
+- Padrões Nocivos de Aprendizado e Crescimento
+  - L2-095 Atração dos Colaboradores Insuficiente
+  - L2-090 Retenção dos Colaboradores Insuficiente
+  - L2-085 Engajamento dos Colaboradores Insuficiente
+  - L2-080 Capacitação e Treinamento Insuficientes
+  - L2-075 Cultura Organizacional Deficiente
+  - L2-065 Gestão de Conhecimento e Propriedade Intelectual Deficiente
+- Padrões Nocivos de Vulnerabilidade a Riscos Externos
+  - E1-100 Vulnerabilidade a Desastres Naturais
+  - E1-098 Vulnerabilidade a Riscos Regulatórios/Legais
+  - E1-095 Vulnerabilidade a Riscos Econômicos
+  - E1-090 Vulnerabilidade a Riscos Políticos
+  - E1-085 Vulnerabilidade a Riscos de Mercado
+  - E1-083 Vulnerabilidade à Prejuízo de Marca/Branding
+  - E1-080 Vulnerabilidade a Mudanças Sociais, Hábitos e Padrões de Consumo
+  - E1-075 Vulnerabilidade a Mudanças Tecnológicas
+
+
 
 # Padrões Nocivos Financeiros
 
