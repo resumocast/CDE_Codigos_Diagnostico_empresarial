@@ -454,11 +454,11 @@ Soluções que não atendem às necessidades dos clientes, feedback negativo, ba
 **Escala:** (1) Nunca | (3) Raramente | (5) Frequentemente | (7) Sempre  
 **Sintomas:** Clientes não retornam, Baixa fidelização, Preferência por concorrentes
 
-### Há um alto índice de devoluções ou cancelamentos de produtos/serviços?
+### 4. Há um alto índice de devoluções ou cancelamentos de produtos/serviços?
 **Escala:** (1) Nunca | (3) Raramente | (5) Frequentemente | (7) Sempre  
 **Sintomas:** Solicitações de reembolso, Trocas frequentes, Insatisfação pós-compra
 
-### A equipe de vendas enfrenta dificuldades significativas para vender os produtos/serviços?
+### 5. A equipe de vendas enfrenta dificuldades significativas para vender os produtos/serviços?
 **Escala:** (1) Nunca | (3) Raramente | (5) Frequentemente | (7) Sempre  
 **Sintomas:** Metas não atingidas, Ciclos de venda longos, Objeções frequentes dos clientes
 
