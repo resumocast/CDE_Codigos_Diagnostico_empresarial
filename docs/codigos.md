@@ -1,4 +1,8 @@
 
+***********************
+*CDE ONLINE ATUALIZADO*
+***********************
+
 
 Os Códigos de Diagnóstico Empresarial (CDE) é um sistema padronizado revolucionário para identificar, classificar e avaliar padrões nocivos em organizações. Inspirado no Código Internacional de Doenças (CID), o CDE aplica princípios médicos validados ao contexto empresarial, priorizando um diagnóstico preciso antes da intervenção.
 
